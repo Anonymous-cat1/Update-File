@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><style xmlns="http://www.w3.org/1999/xhtml">
+    .blocklyText {
+        fill: #fff;
+        font-family: "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 12pt;
+        font-weight: 500;
+    }
+    .blocklyNonEditableText&gt;text, .blocklyEditableText&gt;text {
+        fill: #575E75;
+    }
+    .blocklyDropdownText {
+        fill: #fff !important;
+    }
+    </style><g data-id="[f;]3;/n1XmTnV#qfACY" class="blocklyDraggable blocklySelected" data-shapes="reporter round" data-category="Update File (Direct Access)" transform="translate(0,0) "><path class="blocklyPath blocklyBlockBackground" stroke="#b98816" fill="#e8ab1c" fill-opacity="1" d="m 0,0 m 24,0 H 253.59259033203125 a 24 24 0 0 1 0 48 H 24 a 24 24 0 0 1 0 -48 z"/><g transform="translate(16, 4) "><image height="40px" width="40px" xlink:href="data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSIyMy4xOTU4NCIgaGVpZ2h0PSIyMy42NTU1NCIgdmlld0JveD0iMCwwLDIzLjE5NTg0LDIzLjY1NTU0Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjI4LjY3NjgsLTE2OC4xOTAyNCkiPjxnIGRhdGEtcGFwZXItZGF0YT0ieyZxdW90O2lzUGFpbnRpbmdMYXllciZxdW90Ozp0cnVlfSIgZmlsbD0iI2ZhZmFmYSIgZmlsbC1ydWxlPSJub256ZXJvIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMCIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWRhc2hhcnJheT0iIiBzdHJva2UtZGFzaG9mZnNldD0iMCIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOiBub3JtYWwiPjxwYXRoIGQ9Ik0yMzguNTYsMTkxLjg0NTc4Yy0wLjU1MjI5LDAgLTEsLTAuNDgyNDUgLTEsLTEuMDc3NTh2LTE3LjAwNjc0YzAsLTAuNTk1MTMgMC40NDc3MSwtMS4wNzc1OCAxLC0xLjA3NzU4aDQuMzI4OTJ2NC45NTgwMWwtMy4zODMwNiwwLjAxNjI0bDUuMjY1MTcsNi40NDA1NWw0Ljg4NjgsLTYuNDU0NDJsLTMuMjUxNDcsLTAuMDAyMzd2LTQuOTU4MDFoNC40NjYyOGMwLjU1MjI5LDAgMSwwLjQ4MjQ1IDEsMS4wNzc1OHYxNy4wMDY3NGMwLDAuNTk1MTMgLTAuNDQ3NzEsMS4wNzc1OCAtMSwxLjA3NzU4eiIvPjxwYXRoIGQ9Ik0yMjkuNjc2OCwxODcuMzUyMTNjLTAuNTUyMjksMCAtMSwtMC40ODI0NCAtMSwtMS4wNzc1N3YtMTcuMDA2NzRjMCwtMC41OTUxMyAwLjQ0NzcxLC0xLjA3NzU4IDEsLTEuMDc3NThoMTIuMzEyNjVjMC41NTIyOSwwIDEsMC40ODI0NSAxLDEuMDc3NTh2Mi40NjcxNGgtNS4zMTE3NWMtMC41NTIyOSwwIC0xLDAuNDgyNDUgLTEsMS4wNzc1OHYxNC41Mzk1OXoiLz48L2c+PC9nPjwvc3ZnPg==" xmlns:xlink="http://www.w3.org/1999/xlink"/></g><g transform="translate(64, 4) "><line stroke="#d09919" stroke-linecap="round" x1="0" y1="0" x2="0" y2="40"/></g><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="96.29629516601562" transform="translate(73, 24) ">Get file content as URI/URL</text></g></svg>
