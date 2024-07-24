@@ -3,7 +3,7 @@
 
 <img src="https://anonymous-cat1.github.io/Update-File/SVGassets/PMExtenGalleryThumb.svg" width="500%" height="500%"/>
 
-### A simple Turbowarp extension that uses the [File System Access API](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API) to dynamiclly update files.
+### A simple Turbowarp extension that uses the [File System Access API](https://developer.mozilla.org/en-US/docs/Web/API/File_System_API) to dynamically update files.
 
 # Security note
 
