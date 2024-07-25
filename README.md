@@ -22,35 +22,45 @@ To use this extension in Turbowarp (or in it's very plentiful mods), **open Add 
 ```
 https://anonymous-cat1.github.io/Update-File/extension.js
 ```
-# How to use
+## How to use
 
-To start, you can open a file with the ``Set File`` block. This should open your system's file picker.
+### To start, you can open a file with the ``Set File`` block. This should open your system's file picker.
 
 <img src="https://anonymous-cat1.github.io/Update-File/SVGassets/setfile.svg" width="100%" height="70"/>
 
-Now, you can update a file one of two ways:
-  
-- 1. Plain text
-  <img src="https://anonymous-cat1.github.io/Update-File/SVGassets/updatefile.svg" width="100%" height="70"/>
+### Now, you can update a file with the ``Write content to file from [Format Dropdown] (Text)`` block.
 
-- 2. URI or content from a URL
-  <img src="https://anonymous-cat1.github.io/Update-File/SVGassets/updatefileuri.svg" width="100%" height="70"/>
+<img src="https://anonymous-cat1.github.io/Update-File/SVGassets/newupdatefile.svg" width="100%" height="70"/>
 
-To read a file's content, you can do it also in one of two ways:
-  
-- 1. As Plain text
-  <img src="https://anonymous-cat1.github.io/Update-File/SVGassets/getfilecon.svg" width="100%" height="70"/>
+Dropdown options:
 
-- 2. As URI
-  <img src="https://anonymous-cat1.github.io/Update-File/SVGassets/getfileconasuri.svg" width="100%" height="70"/>
+- Text
 
-To read it a file's metedata as JSON, use the ``Get File Metadata`` block.
+- URI/URL (Using a url will download whatever content the page has)
 
-<img src="https://anonymous-cat1.github.io/Update-File/SVGassets/getfilemeta.svg" width="100%" height="70"/>
+### To read a file, use the ``Get content from file as [Format Dropdown]`` reporter.
 
-To check if the current browser supports Direct Access (File System Access) use the ''Browser supports Direct Access?'' boolean.
+<img src="https://anonymous-cat1.github.io/Update-File/SVGassets/newgetfile.svg" width="100%" height="50"/>
 
-<img src="https://anonymous-cat1.github.io/Update-File/SVGassets/check.svg" width="100%" height="70"/>
+Dropdown options:
+
+- Text
+
+- URI (always encoded as Base64)
+
+- Hex (returns an array of bytes)
+
+### To read a file's metedata as JSON, use the ``Get file metadata as JSON`` reporter.
+
+<img src="https://anonymous-cat1.github.io/Update-File/SVGassets/getfilemeta.svg" width="100%" height="50"/>
+
+### To check if a file is currentl;y opened, use the ``Is file opened?`` boolean.
+
+<img src="https://anonymous-cat1.github.io/Update-File/SVGassets/filebool.svg" width="100%" height="50"/>
+
+### To check if the current browser supports Direct Access (File System Access), use the ```Browser supports Direct Access?``` boolean.
+
+<img src="https://anonymous-cat1.github.io/Update-File/SVGassets/check.svg" width="100%" height="50"/>
 
 Lastly, to close a flie you can use ''Close File''.
 
