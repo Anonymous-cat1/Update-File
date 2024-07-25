@@ -36,7 +36,7 @@ Dropdown options:
 
 - Text
 
-- URI/URL (Using a url will download whatever content the page has)
+- URI/URL (using a url will download whatever content the page has)
 
 ### To read a file, use the ``Get content from file as [Format Dropdown]`` reporter.
 
@@ -62,6 +62,6 @@ Dropdown options:
 
 <img src="https://anonymous-cat1.github.io/Update-File/SVGassets/check.svg" width="100%" height="50"/>
 
-Lastly, to close a flie you can use ''Close File''.
+## Lastly, to close a flie you can use ``Close File``.
 
 <img src="https://anonymous-cat1.github.io/Update-File/SVGassets/closefile.svg" width="100%" height="70"/>
