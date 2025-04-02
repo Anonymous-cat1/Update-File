@@ -7,7 +7,7 @@
 
 # Security note
 
-This will allow any Turbowarp project unrestricted access any file you specify, which means it could modify, delete, or inject something into a file without you even knowing about it!
+This allows any Turbowarp project unrestricted access any file you specify, which means it could modify, delete, or inject code into a file without your consent
 Never allow access to files that you care about to a project you're not familiar with.
 
 # Browser support
@@ -54,11 +54,11 @@ Dropdown options:
 
 <img src="https://anonymous-cat1.github.io/Update-File/SVGassets/getfilemeta.svg" width="100%" height="50"/>
 
-### To check if a file is currentl;y opened, use the ``Is file opened?`` boolean.
+### To check if a file is currently open, use the ``Is file opened?`` boolean.
 
 <img src="https://anonymous-cat1.github.io/Update-File/SVGassets/filebool.svg" width="100%" height="50"/>
 
-### To check if the current browser supports Direct Access (File System Access), use the ```Browser supports Direct Access?``` boolean.
+### To check if the browser supports Direct Access (File System Access), use the ```Browser supports Direct Access?``` boolean.
 
 <img src="https://anonymous-cat1.github.io/Update-File/SVGassets/check.svg" width="100%" height="50"/>
 
